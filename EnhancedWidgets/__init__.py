@@ -50,7 +50,7 @@ from .Graph import Graph
 from .Sets import Sets
 from .Slider import Slider
 from .SmartRadio import SmartRadio
-from .StatusTracker import Tracker
+from .Tracker import Tracker
 from .AskOptions import askoptions
 from .DevMenu import DevMenu
 
